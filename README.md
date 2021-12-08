@@ -18,7 +18,7 @@ The Film Junky Union, a new edgy community for classic movie enthusiasts, is dev
 You don't have to use BERT for the project because it is very demanding for computational power and will be very slow on the CPU for the complete dataset. Because of this, BERT usually needs to be executed on GPU for adequate performance. However, you are more than welcome to try and include BERT in the project for a part of the dataset. If you want to do this, we suggest doing so locally and only taking a couple hundred of objects per each part of the (train/test) dataset to avoid waiting too long. Make sure to indicate your use of BERT in the first cell (the header of your project).
 
 ## Data Description
-The data is stored in the imdb_reviews.tsv file. Download the dataset.
+The data is stored in the imdb_reviews.tsv file.    
 The data was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
 
 Here's the description of the selected fields:
